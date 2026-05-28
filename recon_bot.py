@@ -31,8 +31,8 @@ except ImportError:
     print("Missing python-telegram-bot. Install: pip install python-telegram-bot")
     sys.exit(1)
 
-TELEGRAM_BOT_TOKEN = "8906545053:AAGXsBDmlPLasrjhzsnMc9oY17UvS6pt8b8"
-YOUR_TELEGRAM_USER_ID = 8335028744 
+TELEGRAM_BOT_TOKEN = ""
+YOUR_TELEGRAM_USER_ID =  
 
 
 def is_authorized(update):
